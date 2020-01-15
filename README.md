@@ -1,9 +1,6 @@
 # typeWriter
 
 
-<strong>Overview</strong>
-
-
 For this project I used vanilla Javascript and CSS (Flexbox) to create a typewriter affect. 
 
 
